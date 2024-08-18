@@ -1,4 +1,4 @@
-# Mod Barra de Vida / HealthBar Mod
+# ⌨️ Mod Barra de Vida / HealthBar Mod ⌨️
 
 ## Como Usar 🔨
 
@@ -9,9 +9,11 @@
      - [Inglés](https://storage.googleapis.com/drive-bulk-export-anonymous/20240818T174615.425Z/4133399871716478688/2809b4de-3c8a-467d-89f2-c6ba1d8a2988/1/88163db0-d1f2-4c2b-b1cc-b15a861f04c0?authuser)
      - [Chileno uwu](https://storage.googleapis.com/drive-bulk-export-anonymous/20240818T174016.138Z/4133399871716478688/78a98c17-e732-442f-9428-3170193aaa86/1/3b152c51-8a3f-436e-8016-75d6c0337329?authuser)
 
--  Colocar el Mod en tu carpeta de steam:  steamapps\common\7 Days To Die \Mods
+- Colocar el Mod en tu carpeta de steam:  steamapps\common\7 Days To Die \Mods
 
--  El nombre de la carpeta del mod debe empezar por Mod_ (Mod_BarradeVida, Mod_HealthBar).
+- El nombre de la carpeta del mod debe empezar por Mod_ (Mod_BarradeVida).
+
+- Works with EAC Enabled.✔️ 
 
 ------------
 
@@ -26,7 +28,9 @@
 
 - Place the Mod in your Steam folder: steamapps\common\7 Days To Die \Mods
 
-- The name of the mod folder must start with Mod_ (Mod_BarradeVida, Mod_HealthBar).
+- The name of the mod folder must start with Mod_ (Mod_HealthBar).
+
+- Funciona con EAC Activado.✔️  
 
 ------------
 
