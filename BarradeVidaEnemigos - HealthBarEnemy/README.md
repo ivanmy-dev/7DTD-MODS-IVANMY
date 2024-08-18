@@ -13,7 +13,7 @@
 
 - El nombre de la carpeta del mod debe empezar por Mod_ (Mod_BarradeVida).
 
-- Works with EAC Enabled.✔️ 
+- Funciona con EAC Activado.✔️
 
 ------------
 
@@ -30,7 +30,7 @@
 
 - The name of the mod folder must start with Mod_ (Mod_HealthBar).
 
-- Funciona con EAC Activado.✔️  
+- Works with EAC Enabled.✔️   
 
 ------------
 
