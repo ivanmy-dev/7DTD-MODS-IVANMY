@@ -1,8 +1,6 @@
-## Mod Barra de Vida / HealthBar Mod
+## Mod Barra de Vida &emsp; &emsp; / &emsp; &emsp; HealthBar Mod
 
->  **El mod incluye un cambio de nombre de los zombis**
-> 
->  **The mod includes a name change for the zombies**
+>  **El mod incluye un cambio de nombre de los zombis** &emsp; &emsp; **The mod includes a name change for the zombies**
 
 ------------
 
