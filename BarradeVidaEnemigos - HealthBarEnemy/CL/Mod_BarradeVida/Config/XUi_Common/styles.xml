@@ -1,0 +1,15 @@
+<configs>
+	
+	<append xpath="/styles/global">
+		<style_entry name="morado" 		value="112,36,118,255"/>
+		<style_entry name="morado_oscuro" 		value="61,16,64,255"/>
+		<style_entry name="verde_oscuro_negro" 		value="27,40,22,255"/>
+		<style_entry name="verde_vida" 		value="53,178,0,255"/>
+		<style_entry name="verde_vida_oscuro" 		value="31,103,0,255"/>
+		<style_entry name="amarillo" 		value="255,244,0,255"/>
+		<style_entry name="amarillo_energia" 		value="200,191,5,255"/>
+		<style_entry name="amarillo_energia_oscuro" 		value="150,142,3,255"/>
+		<style_entry name="rojo_oscuro" 		value="146,20,20,255"/>
+		<style_entry name="rojo_claro" 		value="228,27,27,255"/>
+	</append>
+</configs>

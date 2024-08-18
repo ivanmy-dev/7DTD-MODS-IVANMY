@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Name value="BarradeVidaEnemigos" />
+	<DisplayName value="Barra de Vida de Enemigos" />
+    <Description value="Muestra una barra de vida de los enemigos" />
+    <Author value="IvanMY" />
+    <Version value="1.0.0" />
+</xml>
