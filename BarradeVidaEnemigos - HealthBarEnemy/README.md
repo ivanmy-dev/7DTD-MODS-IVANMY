@@ -21,5 +21,36 @@
 
 ------------
 
-## Como Usar / How to Use
+## Como Usar 🔨
 
+- Descargar el mod en el idioma que prefieras.
+
+-  Colocar el Mod en tu carpeta de steam:  steamapps\common\7 Days To Die \Mods
+
+-  El nombre de la carpeta del mod debe empezar por Mod_ (Mod_BarradeVida, Mod_HealthBar).
+
+------------
+
+## How to Use 🔨
+
+- Download the mod in the language you prefer.
+
+- Place the Mod in your Steam folder: steamapps\common\7 Days To Die \Mods
+
+- The name of the mod folder must start with Mod_ (Mod_BarradeVida, Mod_HealthBar).
+
+------------
+
+## Creditos / Credits 🧾
+
+💻 IvanMY
+
+🎮 7DTD Comunidad/Comunnity Modders.
+
+------------
+
+### Copyright© 🇨🇱 
+
+Mod Creado para todos los jugadores y modders de 7 Days To Die, Utilizalo como quieras, No necesito creditos si me utilizas de mod base.
+
+Mod Created for all 7 Days To Die players and modders, Use it as you want, I don't need credits if you use me as a base mod.
