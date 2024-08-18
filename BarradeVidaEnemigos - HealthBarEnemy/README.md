@@ -1,26 +1,5 @@
 ## Mod Barra de Vida / HealthBar Mod
 
-> **El mod incluye un cambio de nombre de los zombis**
-> 
-> **The mod includes a name change for the zombies**
-
-------------
-
-### &nbsp; &nbsp; &emsp; &emsp; &emsp; &ensp;  &nbsp; &ensp;  &nbsp; ·ES·  &nbsp;  &nbsp; &emsp; &emsp; &emsp; &ensp; &nbsp; &emsp; &emsp; &emsp; &emsp;   &emsp; &emsp; &emsp;  ·EN·  &emsp; &ensp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ·CL·
-
- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &nbsp; &nbsp; [![](https://github.com/ivanmy-dev/7DTD-MODS-IVANMY/blob/main/Imagenes/Spain_flags_flag_8858.png)]() &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; &emsp; [![](https://github.com/ivanmy-dev/7DTD-MODS-IVANMY/blob/main/Imagenes/unitedstates_flags_flag_9093.png)]()
- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; [![](https://github.com/ivanmy-dev/7DTD-MODS-IVANMY/blob/main/Imagenes/Chile_flags_flag_9029.png)]() 
-
- &emsp; ![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/ES%20Barra%20de%20Vida%20%2B%20Nombre%20Zombis.png) &emsp; &emsp; &emsp; ![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/EN%20HealthBar%20%2B%20ZombiesNames.png)  &emsp; &emsp; &emsp; ![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/CL%20Barra%20de%20Vida%20%2B%20Nombres%20Zombis.png)
-
-------------
-
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 🧟 zombieArlene 🧟
-
-&nbsp; &ensp; &ensp; &nbsp; &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &nbsp; &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &nbsp; &nbsp; ![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/zombieArlene.png)
-
-------------
-
 ## Como Usar 🔨
 
 - Descargar el mod en el idioma que prefieras.
@@ -38,6 +17,27 @@
 - Place the Mod in your Steam folder: steamapps\common\7 Days To Die \Mods
 
 - The name of the mod folder must start with Mod_ (Mod_BarradeVida, Mod_HealthBar).
+
+------------
+
+> **El mod incluye un cambio de nombre de los zombis**
+> 
+> **The mod includes a name change for the zombies**
+
+------------
+
+### &nbsp; &nbsp; &emsp; &emsp; &emsp; &ensp;  &nbsp; &ensp;  &nbsp; [·ES·]()  &nbsp;  &nbsp; &emsp; &emsp; &emsp; &ensp; &nbsp; &emsp; &emsp; &emsp; &emsp;   &emsp; &emsp; &emsp;  ·EN·  &emsp; &ensp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ·CL·
+
+ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &nbsp; &nbsp; [![](https://github.com/ivanmy-dev/7DTD-MODS-IVANMY/blob/main/Imagenes/Spain_flags_flag_8858.png)]() &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; &emsp; [![](https://github.com/ivanmy-dev/7DTD-MODS-IVANMY/blob/main/Imagenes/unitedstates_flags_flag_9093.png)]()
+ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; [![](https://github.com/ivanmy-dev/7DTD-MODS-IVANMY/blob/main/Imagenes/Chile_flags_flag_9029.png)]() 
+
+ &emsp; ![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/ES%20Barra%20de%20Vida%20%2B%20Nombre%20Zombis.png) &emsp; &emsp; &emsp; ![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/EN%20HealthBar%20%2B%20ZombiesNames.png)  &emsp; &emsp; &emsp; ![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/CL%20Barra%20de%20Vida%20%2B%20Nombres%20Zombis.png)
+
+------------
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 🧟 zombieArlene 🧟
+
+&nbsp; &ensp; &ensp; &nbsp; &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &nbsp; &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &nbsp; &nbsp; ![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/zombieArlene.png)
 
 ------------
 
