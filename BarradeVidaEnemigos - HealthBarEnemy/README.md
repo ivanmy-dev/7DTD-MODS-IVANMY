@@ -14,5 +14,7 @@
  &emsp; ![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/ES%20Barra%20de%20Vida%20%2B%20Nombre%20Zombis.png) &emsp; &emsp; &emsp; ![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/EN%20HealthBar%20%2B%20ZombiesNames.png)  &emsp; &emsp; &emsp; ![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/CL%20Barra%20de%20Vida%20%2B%20Nombres%20Zombis.png)
 
 ------------
-> **zombieArlene**
-![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/zombieArlene.png)
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 🧟 zombieArlene 🧟
+
+&nbsp; &ensp; &ensp; &nbsp; &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &nbsp; &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &nbsp; &nbsp; ![](https://raw.githubusercontent.com/ivanmy-dev/7DTD-MODS-IVANMY/main/Imagenes/zombieArlene.png)
